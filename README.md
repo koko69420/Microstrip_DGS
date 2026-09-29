@@ -65,6 +65,16 @@ flowchart TD
 
 ---
 
+## Simulation Results & S-Parameters
+
+Below is the full-wave electromagnetic simulation response extracted via the MATLAB RF PCB Method of Moments (MoM) solver, displaying $S_{11}$ (Return Loss) and $S_{21}$ (Insertion Loss) across the 868 MHz band:
+
+<p align="center">
+  <img src="results/figures/SParameters.png" alt="CubeSat Bandpass Filter S-Parameters Response" width="800">
+</p>
+
+---
+
 ## Project Structure
 
 ```text
